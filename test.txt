@@ -1,0 +1,6 @@
+Hello World
+chair - a separate seat for one person, typically with a back and four legs.
+chair
+stool
+bench
+table
